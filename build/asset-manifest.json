@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react.porfolio/static/css/main.82953641.css",
+    "main.js": "/react.porfolio/static/js/main.b8722071.js",
+    "static/js/787.b642d3ba.chunk.js": "/react.porfolio/static/js/787.b642d3ba.chunk.js",
+    "static/media/recent-photo.jpg": "/react.porfolio/static/media/recent-photo.b07c855d986a9678fc9d.jpg",
+    "static/media/Lil Lib.png": "/react.porfolio/static/media/Lil Lib.253854811ecd61463372.png",
+    "static/media/living-real-image.png": "/react.porfolio/static/media/living-real-image.97826efd83613a4add50.png",
+    "static/media/Plan A Trip.png": "/react.porfolio/static/media/Plan A Trip.ef5bc5f5721fbf83da12.png",
+    "static/media/auto-tracker-image.png": "/react.porfolio/static/media/auto-tracker-image.b43f2f3cab833f6be953.png",
+    "index.html": "/react.porfolio/index.html",
+    "main.82953641.css.map": "/react.porfolio/static/css/main.82953641.css.map",
+    "main.b8722071.js.map": "/react.porfolio/static/js/main.b8722071.js.map",
+    "787.b642d3ba.chunk.js.map": "/react.porfolio/static/js/787.b642d3ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82953641.css",
+    "static/js/main.b8722071.js"
+  ]
+}
